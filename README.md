@@ -196,4 +196,5 @@ community-templates:
   - https://github.com/zer0yu/Open-PoC
   - https://github.com/zinminphyo0/KozinTemplates
   - https://github.com/shubham-rooter/Nuclei-custom-templates
+  - https://github.com/Shakilll/my_nuclei_templates
 
