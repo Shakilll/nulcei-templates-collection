@@ -197,4 +197,5 @@ community-templates:
   - https://github.com/zinminphyo0/KozinTemplates
   - https://github.com/shubham-rooter/Nuclei-custom-templates
   - https://github.com/Shakilll/my_nuclei_templates
+  - https://github.com/reewardius/log4shell-templates
 
