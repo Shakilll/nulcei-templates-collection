@@ -198,4 +198,5 @@ community-templates:
   - https://github.com/shubham-rooter/Nuclei-custom-templates
   - https://github.com/Shakilll/my_nuclei_templates
   - https://github.com/reewardius/log4shell-templates
+  - https://github.com/xscorp/Notes/tree/master/PublicTemplates
 
