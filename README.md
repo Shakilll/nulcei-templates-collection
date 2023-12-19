@@ -18,7 +18,6 @@ community-templates:
   - https://github.com/0x727/ObserverWard
   - https://github.com/0xAwali/Virtual-Host
   - https://github.com/0xmaximus/final_freaking_nuclei_templates
- 
   - https://github.com/0xPugazh/my-nuclei-templates
   - https://github.com/0xSojalSec/kenzer-templates
   - https://github.com/0xSojalSec/my-nuclei-templates-1
