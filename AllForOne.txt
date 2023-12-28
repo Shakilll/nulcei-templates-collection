@@ -1,4 +1,4 @@
-https://gist.github.com/0x240x23elu
+
 https://gist.github.com/ResistanceIsUseless/e46848f67706a8aa1205c9d2866bff31
 https://github.com/0x727/ObserverWard
 https://github.com/0x727/ObserverWard_0x727
@@ -6,7 +6,6 @@ https://github.com/0xAwali/Virtual-Host
 https://github.com/0xmaximus/final_freaking_nuclei_templates
 https://github.com/0XParthJ/Nuclei-Templates
 https://github.com/0xPugazh/my-nuclei-templates
-https://github.com/0xSojalSec/kenzer-templates
 https://github.com/0xSojalSec/my-nuclei-templates-1
 https://github.com/0xSojalSec/nuclei-templates-4
 https://github.com/0xSojalSec/nuclei-templates-5
@@ -132,7 +131,6 @@ https://github.com/ping-0day/templates
 https://github.com/praetorian-inc/chariot-launch-nuclei-templates
 https://github.com/projectdiscovery/core-templates
 https://github.com/projectdiscovery/fuzzing-templates
-https://github.com/projectdiscovery/nuclei-templates
 https://github.com/ptyspawnbinbash/template-enhancer
 https://github.com/r3dcl1ff/Symfony-Fuck
 https://github.com/rafaelcaria/Nuclei-Templates
@@ -181,8 +179,6 @@ https://github.com/thelabda/nuclei-templates
 https://github.com/themastersunil/nucleiDB
 https://github.com/themastersunil/Nuclei-TemplatesBackup
 https://github.com/themoonbaba/private_templates
-https://github.com/topcoder/nuclei-wordfence-cve
-https://github.com/topscoder/nuclei-wordfence-cve
 https://github.com/toramanemre/apache-solr-log4j-CVE-2021-44228
 https://github.com/toramanemre/log4j-rce-detect-waf-bypass
 https://github.com/trickest/log4j
@@ -197,7 +193,6 @@ https://github.com/wasp76b/nuclei-templates
 https://github.com/wearetyomsmnv/llm_integrated_nuclei_templates
 https://github.com/wr00t/templates
 https://github.com/xinZa1/template
-https://github.com/xscorp/Notes/tree/master/PublicTemplates
 https://github.com/yarovit-developer/core-templates
 https://github.com/yarovit-developer/nuclei-templates
 https://github.com/yavolo/nuclei-templates
